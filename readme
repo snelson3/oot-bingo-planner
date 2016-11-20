@@ -1,0 +1,5 @@
+Very simply I specify a json file with each goal, and what the goal requires I do as subgoals. Then each goal I list the time it would take me to do, as well as the difficulty (% chance of failing tricks etc). And it optimizes and picks the best row for me.
+
+
+each goal has subgoals to list everything thats required (this and this, || this or this)
+each subgoal can have other subgoals, but there should be a validator to make sure theres nothing recursive
